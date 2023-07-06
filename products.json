@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "iPhone",
+        "price" : 143,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name" : "iPhone12",
+        "price" : 459,
+        "featured" : true,
+        "company" : "apple"
+    },
+    {
+        "name":"redmi",
+        "price":333,
+        "featured":false,
+        "company":"mi"
+    },
+
+    {
+        "name":"samsung",
+        "price":658,
+        "featured":true,
+        "company":"samsung"
+    }
+]
